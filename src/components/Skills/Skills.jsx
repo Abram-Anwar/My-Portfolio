@@ -9,7 +9,7 @@ const Skills = () => {
         {/* Section Header */}
         <div className="skills-header">
           <div className="skills-header-content">
-            <span className="skills-label">Capabilities</span>
+            <span className="label">Capabilities</span>
 
             <h2 className="skills-title">Frontend Skillset</h2>
           </div>

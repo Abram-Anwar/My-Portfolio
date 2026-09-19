@@ -11,7 +11,7 @@ const Projects = () => {
         {/* Section Header */}
         <div className="projects-header">
           <div className="projects-header-content">
-            <span className="projects-label">Portfolio</span>
+            <span className="label">Portfolio</span>
 
             <h2 className="projects-title">Featured Projects</h2>
           </div>

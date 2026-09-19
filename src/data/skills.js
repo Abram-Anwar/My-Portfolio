@@ -22,7 +22,7 @@ export const skillGroup = [
     className: "react",
     skills: [
       "Components, Props & State",
-      "React Hooks (useState, useEffect)",
+      "React Hooks",
       "Custom Hooks",
       "Context API",
       "React Router",

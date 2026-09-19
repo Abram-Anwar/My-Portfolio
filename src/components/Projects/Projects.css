@@ -24,17 +24,6 @@
   flex-direction: column;
 }
 
-.projects-label {
-  display: block;
-  margin-bottom: 0.25rem;
-  font-family: var(--font-mono);
-  font-size: 0.75rem;
-  line-height: 1rem;
-  font-weight: 400;
-  color: var(--color-primary, #0ea5e9);
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-}
 
 .projects-title {
   margin: 0;
@@ -51,7 +40,7 @@
   display: grid;
   grid-template-columns: 1fr;
   gap: 2rem;
-}
+} 
 
 .project-card {
   min-height: 100%;
