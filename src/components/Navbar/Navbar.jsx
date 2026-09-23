@@ -106,7 +106,7 @@ const Navbar = () => {
         {/* Header Actions */}
         <div className="header-actions">
           {/* Resume Download Link */}
-          <a className="resume-link" href="/Abram Anwar Ibrahim - Resume.pdf" download> 
+          <a className="resume-link" href={`${import.meta.env.BASE_URL}Abram-Anwar-Ibrahim-Resume.pdf`} download> 
             <span className="resume-label">RESUME.PDF</span>
 
             <span className="resume-icon">
@@ -162,6 +162,7 @@ const Navbar = () => {
           <a
             href={`${import.meta.env.BASE_URL}Abram-Anwar-Ibrahim-Resume.pdf`}
             className="mobile-resume-link"
+            download
           >
             RESUME.PDF
           </a>
