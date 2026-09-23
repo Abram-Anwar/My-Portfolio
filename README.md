@@ -85,7 +85,3 @@ You can download my latest resume directly from the portfolio.
 
 * GitHub: [Abram-Anwar](https://github.com/Abram-Anwar)
 * LinkedIn: [Abram Anwar](https://www.linkedin.com/in/abram-anwar-1159a831/)
-
----
-
-⭐ If you find this project interesting, feel free to explore the code and projects.
