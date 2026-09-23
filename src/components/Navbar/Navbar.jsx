@@ -159,7 +159,10 @@ const Navbar = () => {
           </a>
 
           {/* Mobile Resume Link */}
-          <a href="" className="mobile-resume-link">
+          <a
+            href={`${import.meta.env.BASE_URL}Abram-Anwar-Ibrahim-Resume.pdf`}
+            className="mobile-resume-link"
+          >
             RESUME.PDF
           </a>
         </nav>
